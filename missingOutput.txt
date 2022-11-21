@@ -1,0 +1,2 @@
+
+X: 10 Y: 10 Z: 12 RELATIVE MISS: -5359.0
